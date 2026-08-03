@@ -1,8 +1,8 @@
-# 🖐️ Hand Tracking Mouse Control
+#  Hand Tracking Mouse Control
 
 A Python project that uses computer vision to track hand movements and control the mouse using pinch gestures.
 
-## 🚀 Features
+##  Features
 
 - Real-time hand tracking using MediaPipe
 - Detects thumb and index finger positions
@@ -11,7 +11,7 @@ A Python project that uses computer vision to track hand movements and control t
 - Mouse movement using index finger
 - Click and drag using pinch
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.11
 - OpenCV
@@ -19,7 +19,7 @@ A Python project that uses computer vision to track hand movements and control t
 - PyAutoGUI
 - NumPy
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 
