@@ -24,5 +24,5 @@ A Python project that uses computer vision to track hand movements and control t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hand-tracking.git
+git clone https://github.com/The-ProfessorGG/hand-tracking.git
 cd hand-tracking
